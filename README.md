@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/stevenstalder/GRU-Protein-Analysis">
+  <a href="https://github.com/lukaskln/GRU-Protein-Analysis">
     <img src="https://miro.medium.com/max/680/1*b1zFnLOeM36CBsF4lA7pvQ.gif" alt="Logo" width="250"> 
   </a>
 
@@ -11,10 +11,10 @@
   <p align="center">
     Semester Project for the Deep Learning 2020 Lecture at ETH Zürich
     <br />
-    <a href="https://github.com/stevenstalder/GRU-Protein-Analysis/tree/main/src"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/lukaskln/GRU-Protein-Analysis/tree/main/src"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stevenstalder/GRU-Protein-Analysis/issues">Report Bug</a>
+    <a href="https://github.com/lukaskln/GRU-Protein-Analysis/issues">Report Bug</a>
   </p>
 </p>
 
