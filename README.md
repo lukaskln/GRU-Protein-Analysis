@@ -1,4 +1,5 @@
-
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <p align="center">
@@ -115,10 +116,15 @@ Additionally, we saved the weights of the four best performing models which can 
 
 ## Contact
 
-Steven Stalder  - staldest@student.ethz.ch <br>
-Michael Sommer  - sommemic@student.ethz.ch <br>
-Donal Naylor  - dnaylor@student.ethz.ch <br>
-Lukas Klein  - luklein@student.ethz.ch
+Steven S.<br>
+Michael S.<br>
+Donal N. <br>
+Lukas Klein - [LinkedIn](https://www.linkedin.com/in/lukasklein1/) - lukas.klein@etu.unige.ch
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/lukaskln/GRU-Protein-Analysis/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/lukasklein1/
 
